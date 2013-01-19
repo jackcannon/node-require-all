@@ -1,0 +1,1 @@
+module.exports = 'wildcard/folderA/models/b/test2.js'
